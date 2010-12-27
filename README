@@ -1,0 +1,7 @@
+Kinect Experiments
+
+Based on Point Cloud by Daniel Shiffman - https://github.com/shiffman/libfreenect/tree/master/wrappers/java/processing
+
+3D Camera Spectator & Sound Visualizer
+Using Processing, Libfreenect, TouchOSC, Minim 
+
